@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "appID": "naroureader",
+  "ipaAssetName": "NarouReader.ipa",
+  "bundleIdentifier": "com.xnunux.naroureader",
+  "name": "NarouReader",
+  "developerName": "nunu",
+  "localizedDescription": "公式のなろうページをWebViewで表示する。本文テキストをAPIで取得せず、広告除去を目的とした通信ブロックを行わない。API取得データはメタデータだけに限定する。",
+  "iconURL": "https://raw.githubusercontent.com/nunu1733/altstore-source/main/apps/naroureader/icon.png",
+  "website": "https://github.com/nunu1733/altstore-source",
+  "permissions": [
+    {
+      "type": "background-fetch",
+      "usageDescription": "本棚作品の新着話数確認のため、バックグラウンドで定期的に更新チェックを行う。"
+    }
+  ],
+  "screenshotURLs": [],
+  "appPermissions": {
+    "entitlements": [
+      "com.apple.security.application-groups"
+    ],
+    "privacy": {}
+  },
+  "screenshots": []
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "name": "nunu Apps",
+    "identifier": "com.xnunux.altstore.source",
+    "description": "nunuがAltStore ClassicとSideStore向けに公開するアプリの配布ソース。",
+    "iconURL": "https://raw.githubusercontent.com/nunu1733/altstore-source/main/apps/naroureader/icon.png",
+    "website": "https://github.com/nunu1733/altstore-source"
+  },
+  "apps": [
+    {
+      "appID": "naroureader",
+      "manifestPath": "apps/naroureader/app.json"
+    }
+  ]
+}
