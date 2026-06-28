@@ -5,6 +5,12 @@ AltStore ClassicとSideStore向けの公開配布Repo。
 アプリのソースコードは置かない。
 公開用のアプリ定義、画像、IPA Releaseだけを管理する。
 
+## Source URL
+
+SideStoreとAltStore Classicには次のURLを登録する。
+
+`https://altstore.xnunux.com/source.json`
+
 ## ディレクトリ構成
 
 ```text
