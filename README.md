@@ -48,6 +48,16 @@ iOS向けの「小説家になろう」専用リーダーアプリです。
 本文テキストをAPIで取得せず、広告除去を目的とした通信ブロックを行いません。
 API取得データはメタデータのみとし、小説家になろう公式規約に従います。
 
+## スクリーンショット
+
+<p>
+  <img src="apps/naroureader/screenshots/01_library.png" alt="本棚画面" width="200">
+  <img src="apps/naroureader/screenshots/02_reader_light.png" alt="ライトテーマの読書画面" width="200">
+  <img src="apps/naroureader/screenshots/03_reader_dark.png" alt="ダークテーマの読書画面" width="200">
+  <img src="apps/naroureader/screenshots/04_search.png" alt="作品検索画面" width="200">
+  <img src="apps/naroureader/screenshots/05_settings.png" alt="設定画面" width="200">
+</p>
+
 ## 開発支援（NarouReader）
 
 NarouReaderは無償で配布しており、機能制限や課金要素はありません。

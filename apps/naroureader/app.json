@@ -14,12 +14,44 @@
       "usageDescription": "本棚作品の新着話数確認のため、バックグラウンドで定期的に更新チェックを行う。"
     }
   ],
-  "screenshotURLs": [],
+  "screenshotURLs": [
+    "https://raw.githubusercontent.com/nunu1733/altstore-source/main/apps/naroureader/screenshots/01_library.png",
+    "https://raw.githubusercontent.com/nunu1733/altstore-source/main/apps/naroureader/screenshots/02_reader_light.png",
+    "https://raw.githubusercontent.com/nunu1733/altstore-source/main/apps/naroureader/screenshots/03_reader_dark.png",
+    "https://raw.githubusercontent.com/nunu1733/altstore-source/main/apps/naroureader/screenshots/04_search.png",
+    "https://raw.githubusercontent.com/nunu1733/altstore-source/main/apps/naroureader/screenshots/05_settings.png"
+  ],
   "appPermissions": {
     "entitlements": [
       "com.apple.security.application-groups"
     ],
     "privacy": {}
   },
-  "screenshots": []
+  "screenshots": [
+    {
+      "imageURL": "https://raw.githubusercontent.com/nunu1733/altstore-source/main/apps/naroureader/screenshots/01_library.png",
+      "width": 1206,
+      "height": 2622
+    },
+    {
+      "imageURL": "https://raw.githubusercontent.com/nunu1733/altstore-source/main/apps/naroureader/screenshots/02_reader_light.png",
+      "width": 1206,
+      "height": 2622
+    },
+    {
+      "imageURL": "https://raw.githubusercontent.com/nunu1733/altstore-source/main/apps/naroureader/screenshots/03_reader_dark.png",
+      "width": 1206,
+      "height": 2622
+    },
+    {
+      "imageURL": "https://raw.githubusercontent.com/nunu1733/altstore-source/main/apps/naroureader/screenshots/04_search.png",
+      "width": 1206,
+      "height": 2622
+    },
+    {
+      "imageURL": "https://raw.githubusercontent.com/nunu1733/altstore-source/main/apps/naroureader/screenshots/05_settings.png",
+      "width": 1206,
+      "height": 2622
+    }
+  ]
 }
