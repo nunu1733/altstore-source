@@ -10,7 +10,12 @@
   "apps": [
     {
       "appID": "naroureader",
-      "manifestPath": "apps/naroureader/app.json"
+      "manifestPath": "apps/naroureader/app.json",
+      "distribution": {
+        "repository": "nunu1733/naroureader",
+        "tagFormat": "distribution-set",
+        "includeLegacyHistory": true
+      }
     }
   ]
 }
